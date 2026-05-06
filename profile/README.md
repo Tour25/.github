@@ -1,7 +1,11 @@
-# 🧸 DaenggleJeju
+# 🐶 DaenggleJeju
 ### <p align = center>🥳 2025 한국관광공사 X Kakao 관광데이터 활용 공모전 우수상 수상 🥳 </p>
-#### <p align = center>"MZ를 위한 대화형 사회생활 시뮬레이션"으로 다양한 캐릭터와 상황에 대해 시뮬레이션을 진행하며 피드백을 제공하는 서비스</p>
+#### <p align = center>"숏폼 영상 기반 반려견 동반 제주 여행지 맞춤 정보 제공 서비스</p>
+<img width="4536" height="2436" alt="readme" src="https://github.com/user-attachments/assets/4dc7d59b-faf4-4736-99de-f65be32ba470" />
 
+
+# 🔗 Link
+[✅ Click me!](https://www.daengglejeju.site/)<br>
 
 
 # 🌈 DEMO
@@ -29,22 +33,18 @@
 |<img width="300" alt="마이댕글" src="https://github.com/user-attachments/assets/3ac0b43b-c0cc-4228-9df0-e84027f93f6a">|<img width="300" alt="반려견 등록 및 큐레이션" src="https://github.com/user-attachments/assets/1f969438-795a-43bc-91a0-a59006da95a2">|
 
 
-
-# ⚙ System Architecture
-
-
-
-
 # 🛠 Tech Stack
 <p align="center">
 <strong> Frontend <br></strong>
 <br>
-<img src="https://img.shields.io/badge/vite-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/react-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/Zustand-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Vanilla%20Extract-FF4785?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </p>
 
 <p align="center">
@@ -54,33 +54,20 @@
 <img src="https://img.shields.io/badge/DJANGO_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> 
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="icon" />
-<img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="icon" />
-<img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="icon" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="icon" />
-
 </p>
 
 <p align="center">
 <strong> Storage <br></strong>
 <br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-DD344C?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-</p>
-
-<p align="center">
-<strong> Monitoring <br></strong>
-<br>
-<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
-<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">   
-<img src="https://img.shields.io/badge/node_exporter-E43526?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/cAdvisor-E43526?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </p>
 
 <p align="center">
 <strong> DevOps <br></strong>
 <br>
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
 </p>
 
 <p align="center">
@@ -97,13 +84,18 @@
 
 
 
-# 📂 ERD
-
-
-
-
 # ✏️ API
+| ![Image](https://github.com/user-attachments/assets/1f3abfbc-9ca7-41e8-8ebd-f24d20d4b916) | ![Image](https://github.com/user-attachments/assets/5789eb3b-af12-4ce1-acf0-89de5141b2fc) |
+|:--:|:--:|
+| <sub> AI 여행 케어 / 회원·인증 API</sub> | <sub> 발자국 API</sub> |
 
+| ![Image](https://github.com/user-attachments/assets/8acf729f-faae-4439-a907-d46f0386927f) | ![Image](https://github.com/user-attachments/assets/84fb8d20-e192-4e5b-9601-5c5ea4af323f) |
+|:--:|:--:|
+| <sub>YouTube / 관광데이터 OepnAPI</sub> | <sub> 댕글 영상 API </sub> |
+
+| ![Image](https://github.com/user-attachments/assets/30798170-e145-49be-8ecc-4ae99304c319) | ![Image](https://github.com/user-attachments/assets/23c1231b-0d51-49bc-884c-835aeed05361) |
+|:--:|:--:|
+| <sub>장소 / 스크랩 API</sub> | <sub> 사용자 / 반려견 API</sub> |
 
 
 
@@ -142,10 +134,6 @@
   <td>클라우드 컴퓨팅 서비스로 호스팅을 담당합니다.</td>
 </tr>
 <tr>
-  <th>Github Action</th>
-  <td>CI/CD 자동화를 담당합니다.</td>
-</tr>
-<tr>
   <th>Docker</th>
   <td>컨테이너화된 응용 프로그램의 개발, 배포 및 실행을 간소화하고 일관성을 유지합니다.</td>
 </tr>
@@ -155,7 +143,6 @@
 </tr>
 </tbody>
 </table>
-
 </br>
 
 
@@ -177,17 +164,15 @@
 <th>Profile</th>
 <td width="100" align="center">
 <a href="https://github.com/suyeonnii">
-<img src="https://github.com/user-attachments/assets/924bb228-de2c-41fc-86ae-be30960e67b4" width="60" height="60">
+<img src="https://avatars.githubusercontent.com/u/129092210?s=400&u=bb574bb1ed0b9bc0fcf2c8f540934c466aae2700&v=4" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/dannyk20">
-<img src="https://github.com/user-attachments/assets/1822c898-9c90-4792-9177-4c59cfdae058" width="60" height="60">
+<a href="https://github.com/kweonsikyung">
+<img src="https://avatars.githubusercontent.com/u/104986866?v=4" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/dudxor4587">
-<img src="https://github.com/user-attachments/assets/1f8c5464-ff12-447f-9c48-ea6cc8bbbf31" width="60" height="60">
 </a>
 </td>
 </tr>
@@ -215,8 +200,8 @@ Design<br>
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/
-<img src="http://img.shields.io/badge/dannyk20-green?style=social&logo=github"/>
+<a href="https://github.com/kweonsikyung">
+<img src="http://img.shields.io/badge/kweonsikyung-green?style=social&logo=github"/>
 </a>
 </td>
 </tr>
