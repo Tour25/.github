@@ -9,26 +9,26 @@
 
 
 # 🌈 DEMO
-|**시작 화면**|**로그인**|
+|**서비스 온보딩**|**간편 소셜 로그인**|
 |:-------:|:---------:|
 |온보딩 화면을 통해 서비스의 핵심 기능을 빠르게 이해할 수 있으며, ‘건너뛰기’를 통해 즉시 로그인 화면으로 이동할 수 있습니다.|카카오 소셜 로그인을 지원하여 별도의 회원가입 과정 없이 간편하게 서비스를 이용할 수 있습니다.|
 |<img width="300" alt="온보딩" src="https://github.com/user-attachments/assets/66cca5f8-41d3-4649-98a9-45155d68eff1">|<img width="300" alt="로그인" src="https://github.com/user-attachments/assets/4f066d28-dc66-43cd-8676-ef1ad13dbd9d">|
-|**카테고리칩**|**핀 클릭**|
+|**카테고리 기반 지도 탐색**|**장소 핀 상세 미리보기**|
 |사용자 위치 기반으로 반려견 동반 가능 장소를 지도에서 한눈에 확인할 수 있으며 카테고리 필터(카페, 식당, 여행지 등)를 통해 원하는 유형의 장소만 선별하여 탐색할 수 있습니다.|지도 위 핀을 클릭하면 해당 장소의 영상 콘텐츠(댕글)와 핵심 정보를 직관적으로 확인할 수 있습니다.|
 |<img width="300" alt="카테고리칩" src="https://github.com/user-attachments/assets/4cb66187-3340-40c0-94fd-07ac57f7b576">|<img width="300" alt="핀 클릭" src="https://github.com/user-attachments/assets/d768701d-f93f-46ea-bfc7-5eb9a0356d27">|
-|**장소 목록 리스트**|**장소 상세 정보 조회**|
+|**반려견 동반 가능 장소 리스트**|**장소 상세 정보 제공**|
 |반려동물 동반이 가능한 장소들을 리스트 형태로 제공합니다.|상세 페이지에서는 애견 동반 수칙, 운영 시간 및 위치 정보, 사용자 리뷰 등을 종합적으로 제공합니다.|
 |<img width="300" alt="장소목록조회" src="https://github.com/user-attachments/assets/de7f8109-c592-4491-8d4f-a7e0b96c91f7">|<img width="300" alt="상세조회" src="https://github.com/user-attachments/assets/359826cd-a0aa-443f-9847-5ac47ae242ec">|
-|**댕글 추천**|**댕글 영상 릴스**|
+|**맞춤형 여행지 추천**|**숏폼 영상 콘텐츠 탐색**|
 |사용자의 취향, 반려견 정보, 여행 테마를 기반으로 개인화된 반려견 동반 여행지를 추천합니다.|스크롤 기반 UI를 통해반려견과 함께 방문 가능한 장소를 숏폼 영상 형태로 탐색할 수 있습니다.|
 |<img width="300" alt="댕글추천" src="https://github.com/user-attachments/assets/44fff712-3052-469c-a99b-42357d9880be">|<img width="300" alt="댕글영상" src="https://github.com/user-attachments/assets/16b425e0-fe63-4e5a-ae7d-976ce5ef3dcf">|
-|**장소 검색**|**발자국 남기기**|
+|**키워드 기반 장소 검색**|**방문 리뷰 작성**|
 |키워드 기반 검색을 통해 특정 장소를 빠르게 찾을 수 있습니다.|방문한 장소에 대해 별점과 리뷰를 남길 수 있습니다..|
 |<img width="300" alt="장소 검색" src="https://github.com/user-attachments/assets/aeb55671-a10b-4ebf-8342-3dea13d096bd">|<img width="300" alt="발자국남기기" src="https://github.com/user-attachments/assets/92399ab6-fad2-41e7-bfed-6bbe728fdc8b">|
-|**제주 이동**|**AI 여행 케어**|
+|**제주 이동 가이드**|**AI 기반 여행 케어**|
 |반려견과 함께 제주 여행을 계획하는 사용자를 위해 이동 수단, 절차, 유의사항 등 필수 정보를 통합 제공합니다.|AI 기반 채팅을 통해 반려견 동반 여행 관련 질문, 준비 사항 및 추천 정보 등을 실시간으로 안내받을 수 있습니다.|
 |<img width="300" alt="제주이동정보" src="https://github.com/user-attachments/assets/3d55f800-1248-4788-8184-f135f9d33fdf" />|<img width="300" alt="AI 여행 케어" src="https://github.com/user-attachments/assets/3f58b533-1ca9-4107-9be1-8b76cf56a749">|
-|**마이댕글**|**반려견 등록 및 큐레이션**|
+|**마이페이지 및 활동 관리**|**반려견 등록 및 사용자 맞춤 큐레이션**|
 |사용자 프로필 및 반려견 정보를 관리하며 저장한 댕글 영상, 장소, 작성한 발자국 리뷰를 조회할 수 있습니다.|반려견 정보를 등록하며 초기 큐레이션 과정을 통해 사용자 니즈를 수집하고 맞춤형 콘텐츠 제공에 활용합니다.|
 |<img width="300" alt="마이댕글" src="https://github.com/user-attachments/assets/3ac0b43b-c0cc-4228-9df0-e84027f93f6a">|<img width="300" alt="반려견 등록 및 큐레이션" src="https://github.com/user-attachments/assets/1f969438-795a-43bc-91a0-a59006da95a2">|
 
