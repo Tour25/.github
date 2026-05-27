@@ -4,9 +4,6 @@
 <img width="4536" height="2436" alt="readme" src="https://github.com/user-attachments/assets/4dc7d59b-faf4-4736-99de-f65be32ba470" />
 
 
-# 🔗 Link
-[✅ Click me!](https://www.daengglejeju.site/)<br>
-
 
 # 🌈 DEMO
 |**서비스 온보딩**|**간편 소셜 로그인**|
